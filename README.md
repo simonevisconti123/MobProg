@@ -1,6 +1,6 @@
-# Progetto Mobile Programming - Gruppo 16
-TV Series App
-App che consente di tenere traccia delle serie TV seguite dall’utente, organizzare gli episodi visti, ricevere suggerimenti e sapere quando usciranno nuovi episodi.
+# Progetto Mobile Programming - Gruppo 15
+Travel Diary App
+L’obiettivo è sviluppare un’app multipiattaforma per registrare i propri viaggi. Gli utenti possono creare “entry” di viaggio, organizzare le destinazioni e visualizzare statistiche sulle esperienze fatte.
 
 # 👨‍💻 Membri del gruppo
 - Anthony Vita - 612707588 - referente gruppo
